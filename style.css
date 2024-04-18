@@ -1,0 +1,373 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.countainer{
+    width:98%;
+    box-sizing: border-box;
+    
+}
+.home{
+    width: 100%;
+    height: 90px;
+    border-radius: 70px;
+    background-color: #FAFAFA;
+    margin-top: 34px;
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+} 
+/* media quri home */
+.fa-solid{
+    padding-right: 50px;
+}
+
+.home a{
+    padding-left: 120px;
+    margin:2px;
+    text-decoration: none;
+    color: gray;
+    padding-right:10px;
+}
+.veg{
+    font-size:60px;
+}
+#colo{
+    color: coral;
+    font-size: 60px;
+}
+.second{
+    width: 100%;
+    display: flex;
+
+}
+/* uppr button */
+.tab-btns button{
+    margin-top: 50px;
+    background-color: orange;
+}
+.para{
+    padding-top: 50px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+.tab-btns a {
+    width: 90px;
+    height: 24px;
+    background-color: #FEFEFF;
+    color:white;
+    background-color: orange;
+    text-decoration: none;
+     display: flex;
+     margin: 5px;
+     justify-content: space-evenly;
+}
+.our-shop{
+    font-size: 60px;
+    text-align: center;
+    padding-top:10%;
+    padding-bottom: 10%;
+}
+/* .arrow .fa-solid {
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-top: 90px;
+    width: 40px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 50px;
+} */
+     
+.carrot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+h2{
+    text-align: center;
+}
+
+
+.cabbage{
+    display: flex; justify-content: center;
+    align-items: center;
+}
+.cabfriend{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-left:30% ;
+    padding-right: 30%;
+    font-size: 20px;
+}
+/* read more button css */
+.read{
+    background-color: black;
+    color: #FEFEFF;
+    padding: 10px 20px;
+    border: none;
+    display: block;
+    margin: auto;
+    margin-top: 5%;
+}
+
+/* img-cards */
+
+
+.carrot-to{
+    text-align:center ;
+    padding-top: 10%;
+
+}
+.head-veg{
+    text-align: center;
+    font-size: 40px;
+    padding-top:10px;
+}
+.paraimg{
+    text-align: center;
+    font-size:20px;
+    padding-top: 15px;
+}
+.img-cards{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+     height: 60vh;
+    margin-left: 35px;
+    box-sizing: border-box;
+    padding-top: 5%;
+    align-items: space-between 5px;
+     flex-wrap: wrap; 
+    
+}
+    
+    .card{
+        display: flex;
+    width: 160px;
+    background-color: aliceblue;
+    border: 2px dashed black;
+    padding: 20px;
+    text-align: center;
+    padding-left: 25px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+
+
+
+    }
+   .weight{
+    color: rgb(212, 166, 12);
+    font-weight: 700;
+   }
+    span{
+        color: coral;
+        font-weight: 900;
+    }
+    .next-button
+    
+     h2{
+    margin-bottom: 10px;
+    }
+    .buton{
+        background-color: black;
+        color: #FEFEFF;
+        padding: 10px 20px;
+        border: none;
+        display: block;
+        margin: auto;
+        margin-top: 5%;
+        text-decoration: none;
+    }
+
+
+    .readmore{
+        background-color: black;
+        color: #FEFEFF;
+        padding: 10px 20px;
+        border: none;
+        display: block;
+        margin: auto;
+        margin-top: 5%;
+    }
+    /* 4th div start */
+
+
+    .partfour{
+        width: 100%;
+        height: 75vh;
+    
+     background-color:#FEFEFF
+        
+    }
+    .carot img{
+        display:flex;
+        padding-top: 10%;
+        padding-left: 48%;
+        
+        
+
+    
+        
+    }
+    .Choose{
+       
+      font-size: 60px;  
+      text-align: center;
+
+    }
+    .allveg img{
+   padding-top: 40px;
+   padding-left: 15%;
+    
+    }
+    .pera{
+        font-weight: 400;
+        padding-left: 35%;
+        padding-right: 35%;
+        padding-top: 25px;
+    }
+
+    .beton{
+        background-color: black;
+        color: #FEFEFF;
+        padding: 10px 20px;
+        border: none;
+        display: block;
+        margin: auto;
+        margin-top: 5%;
+        text-decoration: none;
+        padding-top: 20px;
+        
+    }
+    .fifth{
+        width: 100%;
+    /* display: flex; */
+    }
+    .carr {
+        padding-left: 60%;
+        padding-top: 50px;
+        padding-left: 50%;
+    
+
+    }
+    
+
+    .test{
+        width: 97%;
+        font-size: 40px;
+        text-align: center;
+        padding-top: 10px;
+        
+    }
+    .boy{
+    
+         display: flex; 
+        width:65%;
+        position: relative;
+        text-align: center;
+        padding-left: 35%;
+    }
+    .magna{
+    /* background-color: red; */
+        padding-top: 5%;
+        margin: 15px;
+        padding-bottom: 20px;
+
+    }
+    .cons{
+     
+        text-align: center;
+        padding-left:8%;
+    }
+    .boy-lastpara{
+        padding-left: 35%;
+        padding-right: 35%;
+        padding-top:5%;
+
+    }
+    .timlast{
+      display: flex;
+     /* width: 95%;
+     background-color: blue; */
+     justify-content: end;
+    }
+
+
+    /* 6div */
+    .sixd{
+    
+        width: 95%;
+        box-sizing: border-box;
+        text-align: center;
+        padding-left: 15%;
+        padding-top: 10%;
+        font-size: 20px;
+    
+    }
+.input{
+    width:100%;
+    display: flex;
+    height: 40%;
+    
+    
+}
+.fom input{
+    flex-direction: column-reverse;
+    height: 50%;
+    width:8%;
+    margin: 10px;
+    padding-right: 50%;
+    padding-left: 50px;
+    
+}
+
+
+
+ textarea{
+    padding-left: 8px;
+    padding-right: 10px;
+ }
+ .send{
+    background-color:yellow;
+        color: black;
+        padding: 10px 20px;
+        border: none;
+        display: block;
+      border-radius: 50px; 
+        margin-top: 5%;
+        text-decoration: none;
+        padding-top: 20px;
+        width: 140px;
+        padding-left: 5%;
+
+ }
+ .see{
+    padding-left: 40%;
+
+ }
+
+ .end{
+    display: flex;
+    width:99%;
+    height:40vh;
+    background-color: black;
+    color: white;
+
+ }
+.link {
+    display: flex;
+    margin-left: 40px;
+    margin: 30px;
+
+ }
+
+
+
+
+ 
+
+
+        
+
+
