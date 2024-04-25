@@ -474,4 +474,14 @@ span {
 
 /* start media qureis start */
 
-@media only screen and (max-width) {}
+@media only screen and (max-width:1200px) {
+    .home{
+
+    }
+}
+    @media only screen and (max-width:946px ){
+        .home{
+            
+            
+        }
+    }
